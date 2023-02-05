@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A9C7FB3C-4C39-5573-B467-5F660E529AB9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/IDamagable.cs" Line="3" Column="20" />
+      <File FileName="Assets/Scripts/IHealable.cs" Line="4" Column="2" />
+      <File FileName="Assets/Scripts/EnemyGoblin.cs" Line="27" Column="6" />
+      <File FileName="Assets/Scripts/EnemyWizard.cs" Line="22" Column="28" />
+      <File FileName="Assets/Scripts/Player.cs" Line="21" Column="14" />
+      <File FileName="Assets/Scripts/Buddy.cs" Line="27" Column="6" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="46" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ba93d0c9-7615-4a2f-8d6e-e7fb3c4b25f3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
